@@ -1,5 +1,5 @@
 # Seoul-Bigdata-Campus-Competition
-서울시 빅데이터캠퍼스 공모전 최우수상
+# 서울시 빅데이터캠퍼스 공모전 최우수상🏆
 
 탄소중립 선도를 위한 서울시 종합에너지스테이션(TES) 우선 입지 선정
 : Optimal Location Selection of Total Energy Station(TES) for Leading Carbon Neutrality in Seoul
@@ -24,4 +24,4 @@
 - 행정동별 한 명의 생활인구 당 사용할 수 있는 충전소 개수, 전기차 개수, 충전소 인프라(충전소 주변의 상권 활성화 정도 파악)를 판단준거로 삼아 최종적인 우선입지 행정동을 도출
 - 추가적으로 주유소 주변 상권 활성화 정도를 기준으로 삼아 최종적인 세부 위치 결정
 
-# 최종 본선 프리젠테이션 자료 첨부
+6. (추가) 최종 본선 프리젠테이션 자료 첨부
