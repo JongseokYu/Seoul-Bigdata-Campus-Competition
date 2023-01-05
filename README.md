@@ -1,5 +1,5 @@
 # Seoul-Bigdata-Campus-Competition
-# 서울시 빅데이터캠퍼스 공모전 최우수상🏆
+서울시 빅데이터캠퍼스 공모전 최우수상🏆
 
 탄소중립 선도를 위한 서울시 종합에너지스테이션(TES) 우선 입지 선정
 : Optimal Location Selection of Total Energy Station(TES) for Leading Carbon Neutrality in Seoul
